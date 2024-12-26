@@ -18,4 +18,4 @@
 #python:3.12.7-slim
 #registry-1.docker.io/metabase/metabase:v0.51.3
 #registry-1.docker.io/continuumio/miniconda3:24.11.1-0
-python:3.12.8-slim-bullseye --platform=linux/amd64
+python:3.12.8-slim-bullseye
