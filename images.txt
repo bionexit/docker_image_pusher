@@ -16,4 +16,6 @@
 #docker.getcollate.io/openmetadata/ingestion:1.5.5
 #registry-1.docker.io/metabase/metabase:v0.50.28.5
 #python:3.12.7-slim
-registry-1.docker.io/metabase/metabase:v0.51.3
+#registry-1.docker.io/metabase/metabase:v0.51.3
+registry-1.docker.io/continuumio/miniconda3:24.11.1-0
+
