@@ -20,5 +20,7 @@
 #registry-1.docker.io/continuumio/miniconda3:24.11.1-0
 #python:3.12.8-slim-bullseye
 #ghcr.io/intergalacticalvariable/reader:latest
---platform=linux/arm64 docker.io/valkey/valkey:8-alpine 
---platform=linux/arm64 docker.io/searxng/searxng:latest 
+#--platform=linux/arm64 docker.io/valkey/valkey:8-alpine 
+#--platform=linux/arm64 docker.io/searxng/searxng:latest 
+
+--platform=linux/arm64 dimitri/pgloader
