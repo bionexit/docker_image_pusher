@@ -22,5 +22,4 @@
 #ghcr.io/intergalacticalvariable/reader:latest
 #--platform=linux/arm64 docker.io/valkey/valkey:8-alpine 
 #--platform=linux/arm64 docker.io/searxng/searxng:latest 
-
---platform=linux/arm64 dimitri/pgloader
+--platform=linux/arm64 docker.io/dimitri/pgloader:latest
