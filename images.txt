@@ -23,4 +23,5 @@
 #--platform=linux/arm64 docker.io/valkey/valkey:8-alpine 
 #--platform=linux/arm64 docker.io/searxng/searxng:latest 
 #--platform=linux/amd64 docker.io/dimitri/pgloader:latest
-python:3.12-slim
+#python:3.12-slim
+node:18-slim
