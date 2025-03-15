@@ -26,5 +26,7 @@
 #python:3.12-slim
 #node:18-slim
 #docker.io/searxng/searxng:latest 
+## firecrawl
 #golang:1.24
-rust:1-slim
+#rust:1-slim
+node:22-slim
