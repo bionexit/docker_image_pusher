@@ -31,5 +31,6 @@
 #rust:1-slim
 #node:22-slim
 #mindoc
-amd64/golang:1.18.1
-ubuntu:focal
+#amd64/golang:1.18.1
+#ubuntu:focal
+jinaai/jina:latest
