@@ -64,7 +64,14 @@
 # langgenius/dify-web:1.1.2
 
 
-docker.getcollate.io/openmetadata/db:1.7.1
-docker.elastic.co/elasticsearch/elasticsearch:8.11.4
-docker.getcollate.io/openmetadata/server:1.7.1
-docker.getcollate.io/openmetadata/ingestion:1.7.1
+#docker.getcollate.io/openmetadata/db:1.7.1
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+#docker.getcollate.io/openmetadata/server:1.7.1
+#docker.getcollate.io/openmetadata/ingestion:1.7.1
+
+docker.io/tooljet/tooljet:ee-lts-latest
+docker.io/postgres:16
+docker.io/postgres:13
+docker.io/temporalio/auto-setup:1.25.1
+
+
