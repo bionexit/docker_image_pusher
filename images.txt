@@ -73,7 +73,7 @@
 #docker.io/postgres:16
 #docker.io/postgres:13
 #docker.io/temporalio/auto-setup:1.25.1
-docker.io/mysql/mysql:8.0.43
+docker.io/mysql:8.0.43
 
 
 
