@@ -86,7 +86,7 @@ certbot/certbot
 # langgenius/dify-sandbox:0.2.12
 # langgenius/qdrant:v1.8.3
 # matrixorigin/matrixone:2.1.1
-# #mildb/milvus:v2.6.3
+mildb/milvus:v2.6.3
 # minio/minio:RELEASE.2023-03-20T20-16-18Z
 # mysql:8.0
 # #myscale/myscaledb:1.6.4
