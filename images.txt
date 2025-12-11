@@ -105,5 +105,4 @@ certbot/certbot
 # vastdata/vastbase-vector
 #pgvector/pgvector:pg16
 #semitechnologies/weaviate:1.27.0
-
-busybox:latest
+docker.io/searxng/searxng:latest
