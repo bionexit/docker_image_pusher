@@ -105,4 +105,5 @@ certbot/certbot
 # vastdata/vastbase-vector
 #pgvector/pgvector:pg16
 #semitechnologies/weaviate:1.27.0
-docker.io/searxng/searxng:latest
+#docker.io/searxng/searxng:latest
+homeassistant/homeassistant
