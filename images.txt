@@ -106,4 +106,4 @@ certbot/certbot
 #pgvector/pgvector:pg16
 #semitechnologies/weaviate:1.27.0
 #docker.io/searxng/searxng:latest
-homeassistant/homeassistant
+homeassistant/home-assistant:2026.2.0.dev202601200249
